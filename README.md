@@ -19,7 +19,13 @@
       <td>Styled-Component Project</td></td>
       <td><a href="https://github.com/mbozkayaGitHub/Styledcomponentproject" target="_blank">Repo Details</td>
       <td><a href="https://styledcomponentproject.vercel.app/" target="_blank">Live App</td>
-      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/c22ee6d4-3cbd-40d3-aae7-1273c2d96f63)" alt="Styled-Component"></td>
+      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/c22ee6d4-3cbd-40d3-aae7-1273c2d96f63" alt="Styled-Component"></td>
+       </tr>
+     <tr>
+      <td>ShopDesign Project</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/ShopDesignReactRouter/tree/master" target="_blank">Repo Details</td>
+      <td><a href="https://shop-design-react-router.vercel.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/73fc8bb8-8505-44ae-8ea0-5fdc4b353843" alt="ShopDesign"></td>
        </tr>
   </tbody>
 </table> (edited) 
