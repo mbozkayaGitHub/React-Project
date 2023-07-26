@@ -34,7 +34,7 @@
       <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/f851b7bf-de4b-48cf-980b-e5cace80a106" alt="British-Meals"></td>
        </tr>
      <tr>
-      <td>Quotespreject</td></td>
+      <td>Quotesproject</td></td>
       <td><a href="https://github.com/mbozkayaGitHub/quotesproject" target="_blank">Repo Details</td>
       <td><a href="https://vercel.com/mbozkayagithub/quotesproject" target="_blank">Live App</td>
       <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/4423bff0-3db7-4bf5-b08b-658b5222aabe" alt="quotesproject"></td>
