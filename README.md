@@ -1,4 +1,4 @@
-![BritishMeals](https://github.com/mbozkayaGitHub/React-Project/assets/119006810/f7845ec3-63e4-492b-8d2c-6838a992d757)# React-Projects
+
 <table class="table">
   <thead>
     <tr>
