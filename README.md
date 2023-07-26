@@ -39,5 +39,11 @@
       <td><a href="https://vercel.com/mbozkayagithub/quotesproject" target="_blank">Live App</td>
       <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/4423bff0-3db7-4bf5-b08b-658b5222aabe" alt="quotesproject"></td>
        </tr>
+     <tr>
+      <td>ImageGallery</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/imagegallery" target="_blank">Repo Details</td>
+      <td><a href="https://imagegallery-alpha.vercel.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/89dffb32-ab31-4083-9bdf-4fbce458c1fd" alt="imagegallery"></td>
+       </tr>
   </tbody>
 </table> (edited) 
