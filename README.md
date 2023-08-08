@@ -10,6 +10,12 @@
   </thead>
   <tbody>
      <tr>
+      <td>Library Project</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/Library-Project">Repo Details</td>
+      <td><a href="https://library-project-sigma-ruddy.vercel.app/">Live App</td>
+      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/bdca13d9-4235-493f-9a66-85208f94f6ef.gif" alt="Library Project"></td>
+    </tr>
+     <tr>
       <td>Soup Restaurant</td></td>
       <td><a href="https://github.com/mbozkayaGitHub/Soup_Restaurant" target="_blank">Repo Details</td>
       <td><a href="https://vercel.com/mbozkayagithub/soup-restaurant" target="_blank">Live App</td>
