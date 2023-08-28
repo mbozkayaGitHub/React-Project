@@ -46,6 +46,12 @@
       <td><img src="" alt="nbalegends"></td>
        </tr>
      <tr>
+      <td>TODO-WITH-REDUX</td></td>
+      <td><a href="https://github.com/mbozkayaGitHub/Todo-with-Redux" target="_blank">Repo Details</td>
+      <td><a href="https://todo-with-redux-chi.vercel.app/" target="_blank">Live App</td>
+      <td><img src="https://github.com/mbozkayaGitHub/React-Project/assets/119006810/73d2cb57-018d-4b96-b0bb-32913eeb221a" alt="todowithRedux"></td>
+       </tr>
+     <tr>
       <td>British-Meals</td></td>
       <td><a href="https://github.com/mbozkayaGitHub/British-Meals" target="_blank">Repo Details</td>
       <td><a href="https://vercel.com/mbozkayagithub/british-meals" target="_blank">Live App</td>
